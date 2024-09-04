@@ -1,4 +1,5 @@
-name: ci
+name: docker-image-scan
+on: workflow_dispatch
 
 jobs:
   scan:
