@@ -4,3 +4,4 @@ venv/
 Dockerfile
 .DS_Store
 .git
+.github/
